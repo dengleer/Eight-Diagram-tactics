@@ -10,6 +10,6 @@
 docker 及 docker-compose 根据实际情况自行安装
 EDT 依赖：
 pip3 install pick
-pip install pocsuite
+pip3 install pocsuite3
 ```
 
